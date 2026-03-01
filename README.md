@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Shahbaaz
 
-<!--
-**shahbaazchaviwale/shahbaazchaviwale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Senior UI Developer | 8+ Years Experience
 
-Here are some ideas to get you started:
+💻 Passionate about building scalable, high-performance web applications  
+⚛️ Specialized in React, TypeScript, and Modern JavaScript  
+🎯 Focused on clean architecture, reusable components & pixel-perfect UI  
+🧪 Strong in Unit Testing (Vitest), CI/CD & Performance Optimization  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- TypeScript
+- JavaScript (ES6+)
+- Vite
+- Redux / Zustand
+- HTML5 / CSS3 / Tailwind
+- Node.js
+- GitHub Actions (CI/CD)
+
+---
+
+## 📈 What I Do
+
+- Build enterprise-grade frontend systems  
+- Create reusable component libraries  
+- Improve performance & accessibility  
+- Ensure 100% test coverage  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/shahbaaz-chaviwale-94841a113/
+- Email: shahbaazchaviwale@gmail.com
