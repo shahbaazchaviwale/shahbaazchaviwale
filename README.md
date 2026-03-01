@@ -16,9 +16,11 @@
 - JavaScript (ES6+)
 - Vite
 - Redux / Zustand
-- HTML5 / CSS3 / Tailwind
+- HTML5 / CSS3 / Tailwind / MaterialUI / Bootstrap 
 - Node.js
 - GitHub Actions (CI/CD)
+- REST API
+- MySQL 
 
 ---
 
