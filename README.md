@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shahbaaz
 
-## 🚀 Senior UI Developer | 8+ Years Experience
+## 🚀 Senior UI Developer | 9+ Years Experience
 
 💻 Passionate about building scalable, high-performance web applications  
 ⚛️ Specialized in React, TypeScript, and Modern JavaScript  
@@ -11,16 +11,34 @@
 
 ## 🛠️ Tech Stack
 
-- React.js
-- TypeScript
-- JavaScript (ES6+)
-- Vite
-- Redux / Zustand
-- HTML5 / CSS3 / Tailwind / MaterialUI / Bootstrap 
-- Node.js
-- GitHub Actions (CI/CD)
-- REST API
-- MySQL 
+-Frontend
+React.js, Redux, Zustand, Angular 7, AngularJS, TypeScript, JavaScript (ES6+)
+
+-UI & Styling
+HTML5, CSS3, SCSS, LESS, Bootstrap, Material UI (MUI), React Prime, React Semantic UI
+
+-Testing
+Vitest, Jest, React Testing Library, Protractor
+
+-Build Tools
+Vite, Webpack, npm, yarn
+
+-Database
+MySQL, SQL Server
+
+-Design & Collaboration
+Figma, Agile, Scrum, JIRA
+	
+-State Management
+Redux, Zustand, NGRX
+
+-Backend / Integration
+Node.js, GraphQL, REST APIs
+
+-DevOps / CI-CD
+Git, GitHub Actions, GitLab CI, Jenkins, CI/CD Pipelines
+
+
 
 ---
 
