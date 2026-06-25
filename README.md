@@ -53,5 +53,5 @@ Git, GitHub Actions, GitLab CI, Jenkins, CI/CD Pipelines
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/shahbaaz-chaviwale-94841a113/
+- LinkedIn: https://www.linkedin.com/in/shahbaaz-chaviwale/
 - Email: shahbaazchaviwale@gmail.com
