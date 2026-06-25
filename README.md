@@ -12,7 +12,7 @@
 ## 🛠️ Tech Stack
 
 -Frontend
-React.js, Redux, Zustand, Angular 7, AngularJS, TypeScript, JavaScript (ES6+)
+React.js, Next.js, Angular 7, AngularJS, TypeScript, JavaScript (ES6+)
 
 -UI & Styling
 HTML5, CSS3, SCSS, LESS, Bootstrap, Material UI (MUI), React Prime, React Semantic UI
